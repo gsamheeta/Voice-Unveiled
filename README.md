@@ -13,5 +13,6 @@ Prototype: View the interactive prototype on Figma.
 Evaluation Plan & UX Report: Conducted usability evaluations and identified key areas for improvement.
 Recommendations: Provided recommendations to enhance the app’s usability based on my findings.
 
-About Me
+About Me :
+
 I am passionate about designing user-friendly solutions that address real-world problems. This project was an opportunity to apply my skills in a meaningful way.
